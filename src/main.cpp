@@ -3,5 +3,5 @@
 #include "fun.h"
 
 int main() {
-    std::cout << power(2,6);
+    std::cout << power(2, 6);
 }
